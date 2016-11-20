@@ -1,0 +1,6 @@
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_swap+InsertionSort\HomeWork4_swap+InsertionSort\bin\Debug\HomeWork4_swap+InsertionSort.exe.config
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_swap+InsertionSort\HomeWork4_swap+InsertionSort\bin\Debug\HomeWork4_swap+InsertionSort.exe
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_swap+InsertionSort\HomeWork4_swap+InsertionSort\bin\Debug\HomeWork4_swap+InsertionSort.pdb
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_swap+InsertionSort\HomeWork4_swap+InsertionSort\obj\Debug\HomeWork4_swap+InsertionSort.csprojResolveAssemblyReference.cache
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_swap+InsertionSort\HomeWork4_swap+InsertionSort\obj\Debug\HomeWork4_swap+InsertionSort.exe
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_swap+InsertionSort\HomeWork4_swap+InsertionSort\obj\Debug\HomeWork4_swap+InsertionSort.pdb

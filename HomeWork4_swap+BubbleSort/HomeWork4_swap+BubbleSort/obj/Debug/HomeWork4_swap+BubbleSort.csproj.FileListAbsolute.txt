@@ -1,0 +1,6 @@
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_swap+BubbleSort\HomeWork4_swap+BubbleSort\bin\Debug\HomeWork4_swap+BubbleSort.exe.config
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_swap+BubbleSort\HomeWork4_swap+BubbleSort\bin\Debug\HomeWork4_swap+BubbleSort.exe
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_swap+BubbleSort\HomeWork4_swap+BubbleSort\bin\Debug\HomeWork4_swap+BubbleSort.pdb
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_swap+BubbleSort\HomeWork4_swap+BubbleSort\obj\Debug\HomeWork4_swap+BubbleSort.csprojResolveAssemblyReference.cache
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_swap+BubbleSort\HomeWork4_swap+BubbleSort\obj\Debug\HomeWork4_swap+BubbleSort.exe
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_swap+BubbleSort\HomeWork4_swap+BubbleSort\obj\Debug\HomeWork4_swap+BubbleSort.pdb

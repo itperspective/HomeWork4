@@ -1,0 +1,6 @@
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_stack\HomeWork4_stack\bin\Debug\HomeWork4_stack.exe.config
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_stack\HomeWork4_stack\bin\Debug\HomeWork4_stack.exe
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_stack\HomeWork4_stack\bin\Debug\HomeWork4_stack.pdb
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_stack\HomeWork4_stack\obj\Debug\HomeWork4_stack.csprojResolveAssemblyReference.cache
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_stack\HomeWork4_stack\obj\Debug\HomeWork4_stack.exe
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_stack\HomeWork4_stack\obj\Debug\HomeWork4_stack.pdb
