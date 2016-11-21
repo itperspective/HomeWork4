@@ -1,0 +1,6 @@
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_CircularBufferQueue\HomeWork4_CircularBufferQueue\bin\Debug\HomeWork4_CircularBufferQueue.exe.config
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_CircularBufferQueue\HomeWork4_CircularBufferQueue\bin\Debug\HomeWork4_CircularBufferQueue.exe
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_CircularBufferQueue\HomeWork4_CircularBufferQueue\bin\Debug\HomeWork4_CircularBufferQueue.pdb
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_CircularBufferQueue\HomeWork4_CircularBufferQueue\obj\Debug\HomeWork4_CircularBufferQueue.csprojResolveAssemblyReference.cache
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_CircularBufferQueue\HomeWork4_CircularBufferQueue\obj\Debug\HomeWork4_CircularBufferQueue.exe
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson4\HomeWork4_CircularBufferQueue\HomeWork4_CircularBufferQueue\obj\Debug\HomeWork4_CircularBufferQueue.pdb
