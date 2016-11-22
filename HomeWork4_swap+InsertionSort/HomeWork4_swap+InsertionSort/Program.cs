@@ -53,34 +53,19 @@ namespace HomeWork4
 
             //Insertion Sort -------------------------------------------------------------------------------------------------------
 
-            int SwitchInsert = 0;
-            arraySwitchInsertion(array, SwitchInsert);
 
-            Console.WriteLine("Here is how your array looks like after the INSERTION sort:");
-            arrayout(array);
-
-            Console.ReadLine();
-
-        }
-
-        static void arraySwitchInsertion(int[] array, int SwitchInsert)
-        {
             for (int i = 1; i < array.Length; i++)
             {
                 if (array[i] < array[i - 1])
                 {
 
-                    SwitchInsert = array[i];
-                    array[i] = array[i - 1];
-                    array[i - 1] = SwitchInsert;
+                    swap(array, i-1, i);
 
                     for (int j = (i - 1); j > 0; j--)
                     {
                         if (array[j] < array[j - 1])
                         {
-                            SwitchInsert = array[j];
-                            array[j] = array[j - 1];
-                            array[j - 1] = SwitchInsert;
+                            swap(array, j-1,j);
                         }
 
                         else
@@ -92,8 +77,15 @@ namespace HomeWork4
                 }
 
             }
+
+            Console.WriteLine("Here is how your array looks like after the INSERTION sort:");
+            arrayout(array);
+
+            Console.ReadLine();
+
         }
 
+  
         static void swap(int[] array, int swap1, int swap2)
         {
             int temp = 0;
