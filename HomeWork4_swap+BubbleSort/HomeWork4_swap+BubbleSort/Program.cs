@@ -52,32 +52,21 @@ namespace HomeWork4
 
 
             //Bubble Sort----------------------------------------------------------------------------------------------------------
-
-            int swapTempBubble = 0;
-            arraySwitchBubble(array, swapTempBubble);
+        
+           for (int i = 0; i < (array.Length - 1); i++)
+            {
+                if (array[i + 1] < array[i])
+                {
+                    swap(array, i, i+1);          
+                    i = -1;
+                }
+            }
 
             Console.WriteLine("Here is how your array looks like after the BUBBLE sort:");
             arrayout(array);
 
 
-
             Console.ReadLine();
-
-        }
-
-
-        static void arraySwitchBubble(int[] array, int Switch)
-        {
-            for (int i = 0; i < (array.Length - 1); i++)
-            {
-                if (array[i + 1] < array[i])
-                {
-                    Switch = array[i + 1];
-                    array[i + 1] = array[i];
-                    array[i] = Switch;
-                    i = -1;
-                }
-            }
 
         }
 
